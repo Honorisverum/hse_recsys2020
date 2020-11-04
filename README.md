@@ -2,6 +2,8 @@
 
 ## Vladislav Beliaev
 
-Checkout `hw1` for Homework 1 [done]
+Separate branch for each homework, folder: `HomeWorks`
 
-Checkout `hw2` for Homework 2 [done]
+Checkout `hw1` for Homework 1 [✅]
+
+Checkout `hw2` for Homework 2 [✅]
