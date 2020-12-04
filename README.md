@@ -7,3 +7,5 @@ Separate branch for each homework, folder: `HomeWorks`
 Checkout `hw1` for Homework 1 [✅]
 
 Checkout `hw2` for Homework 2 [✅]
+
+Checkout `hw3` for Homework 3 [✅]
